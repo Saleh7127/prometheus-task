@@ -3,7 +3,6 @@ module github.com/Saleh7127/prometheus-task
 go 1.20
 
 require (
-	github.com/Saleh7127/go-api-server v0.0.0-20230517093202-c47b4f33e3e3
 	github.com/prometheus/client_golang v1.16.0
 	github.com/spf13/cobra v1.7.0
 )
@@ -11,9 +10,6 @@ require (
 require (
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible // indirect
-	github.com/go-chi/chi v1.5.4 // indirect
-	github.com/go-chi/chi/v5 v5.0.8 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/inconshreveable/mousetrap v1.1.0 // indirect
 	github.com/matttproud/golang_protobuf_extensions v1.0.4 // indirect

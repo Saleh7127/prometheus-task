@@ -8,3 +8,5 @@
 ## Resource
 - https://www.youtube.com/watch?v=_NtRkBipepg&t=976s&ab_channel=ThatDevOpsGuy
 - [part 1 to 3](https://www.youtube.com/watch?v=h4Sl21AKiDg&ab_channel=TechWorldwithNana)
+- [Introduction to Kubernetes Monitoring And exploring Prometheus](https://blog.devops.dev/introduction-to-kubernetes-monitoring-and-exploring-prometheus-9bd0358ce504)
+- [Prometheus, Kube State metrics and Integrate Grafana with Kubernetes](https://blog.devops.dev/part-1-setup-prometheus-kube-state-metrics-and-integrate-grafana-with-kubernetes-6c21f60d167f)

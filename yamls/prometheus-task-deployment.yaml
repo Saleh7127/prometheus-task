@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: prometheus-task-deployment
+  labels:
+    app: prometheus-task
+spec:
+  selector:
+    matchLabels:
+      app: prometheus-task
+  template:
+    metadata:
+      labels:
+        app: prometheus-task
+    spec:
+      containers:
+        - name: prometheus-task
+          image: saleh7127/prometheus-task
+          ports:
+            - containerPort: 7127

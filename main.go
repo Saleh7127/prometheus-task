@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Saleh7127/go-api-server/cmd"
+	"github.com/Saleh7127/prometheus-task/cmd"
 )
 
 func main() {

@@ -1,26 +1,9 @@
-# github.com/Saleh7127/go-api-server v0.0.0-20230517093202-c47b4f33e3e3
-## explicit; go 1.20
-github.com/Saleh7127/go-api-server/DB
-github.com/Saleh7127/go-api-server/api
-github.com/Saleh7127/go-api-server/auth
-github.com/Saleh7127/go-api-server/cmd
-github.com/Saleh7127/go-api-server/handler
 # github.com/beorn7/perks v1.0.1
 ## explicit; go 1.11
 github.com/beorn7/perks/quantile
 # github.com/cespare/xxhash/v2 v2.2.0
 ## explicit; go 1.11
 github.com/cespare/xxhash/v2
-# github.com/dgrijalva/jwt-go v3.2.0+incompatible
-## explicit
-github.com/dgrijalva/jwt-go
-# github.com/go-chi/chi v1.5.4
-## explicit; go 1.16
-github.com/go-chi/chi
-github.com/go-chi/chi/middleware
-# github.com/go-chi/chi/v5 v5.0.8
-## explicit; go 1.14
-github.com/go-chi/chi/v5
 # github.com/golang/protobuf v1.5.3
 ## explicit; go 1.9
 github.com/golang/protobuf/proto
